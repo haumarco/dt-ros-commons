@@ -40,6 +40,7 @@ add_message_files(
   DuckiebotLED.msg
   EncoderStamped.msg
   FSMState.msg
+  FusionLanePose.msg
   IntersectionPose.msg
   IntersectionPoseImg.msg
   IntersectionPoseImgDebug.msg
